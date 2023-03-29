@@ -1,2 +1,2 @@
 # javaintership
-new repo
+i created an ATMinterface using Java 
